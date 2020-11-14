@@ -1,0 +1,73 @@
+body{
+  background-color:#edb879;
+  font-family: Fira Sans Condensed;
+}
+
+.hovedboks {
+	width: 100vw;
+	height: 60vw;
+}
+
+
+.header {
+	float: left;
+	width: 100vw;
+	height: 7vw;
+	border: px solid black;
+	background-color: #edb879;
+}
+
+
+.content {
+  padding: 16px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+.sticky + .content {
+  padding-top: 102px;
+}
+
+.header{
+	text-align: center
+}
+
+.cmo{
+	width: 50vw;
+	height: 8vw;
+}
+
+.teksti{
+	height: 35vw;
+	border: px solid black;
+padding-left: 53vw;	
+padding-right: 4vw;
+border: px solid black;
+}
+
+.ttk {
+	font-size: 20px;
+}
+.slagord {
+text-align: center
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
